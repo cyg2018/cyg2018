@@ -1,0 +1,5 @@
+- 👋 Hi, I’m ganter
+- 👀 I’m interested in javascript.
+- 🌱 I’m currently learning nodejs
+- 💞️ I’m looking to collaborate on wechat
+- 📫 How to reach me : send email to hangzhou.zj.cn@163.com 
